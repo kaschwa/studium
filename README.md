@@ -1,6 +1,5 @@
 # studium
-NQueens und WebTech Semester 1
-C++Labor Semester2 OOP Teil2
-Java Semester2 OOP Teil1 
-ComputerNetze Semester3 Sprache C
-C#Videorekorder Semester4
+Semester 1: NQueens   
+Semester2: C++Labor, Java 
+Semester3: ComputerNetze in C, WebTech
+Semester4: C#Videorekorder 
